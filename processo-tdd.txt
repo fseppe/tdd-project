@@ -1,0 +1,1 @@
+O processo TDD é dividido em três etapas: vermelho, verde, amarelo. Onde vermelho o desenvolvedor terá criado um teste para onde o código ainda não implementado não estará funcionando, no verde o desenvolvedor terá criado um código funcional para o teste e, por fim, no amarelo o desenvolvedor poderá refatorar o código, deixando o mais legível, eficiente etc.
